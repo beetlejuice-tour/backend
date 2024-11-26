@@ -1,0 +1,84 @@
+Contributing to Beetlejuice Tour Backend
+Thank you for your interest in contributing to the Beetlejuice Tour Backend project! Contributions are welcome and greatly appreciated. By following these guidelines, you can help maintain the quality and consistency of the project.
+
+How to Contribute
+🐛 Reporting Bugs
+If you encounter any bugs or unexpected behavior, please:
+
+1. Check existing issues to see if the problem has already been reported.
+2. Open a new issue:
+- Provide a clear and descriptive title.
+- Include steps to reproduce the issue.
+- Mention the expected and actual behavior.
+- Attach logs or screenshots, if relevant.
+
+💡 Suggesting Features
+To suggest a new feature:
+- Open a new issue with the label enhancement.
+- Provide a detailed description of your suggestion.
+- Explain why this feature would benefit the project or users.
+
+🔧 Fixing Issues / Enhancing the Code
+To contribute code changes:
+
+1. Fork the repository:
+- Go to the repository page and click the Fork button.
+
+2. Clone your fork:
+
+git clone https://github.com/<your-username>/backend.git
+cd backend
+
+3. Create a new branch for your feature or fix:
+
+git checkout -b feature/your-feature-name
+
+4. Make your changes:
+- Follow the project’s coding guidelines.
+- Ensure your code is clean and well-documented.
+
+5. Test your changes:
+- Run all tests to ensure nothing is broken.
+- Add tests for new functionality if applicable.
+
+6. Commit your changes:
+
+git add .
+git commit -m "Description of changes"
+
+7. Push to your fork:
+
+git push origin feature/your-feature-name
+
+8. Open a Pull Request (PR):
+- Go to the original repository.
+- Click Pull Requests, then New Pull Request.
+- Provide a clear description of your changes.
+- Reference any related issues.
+
+Coding Standards
+- Use consistent formatting (e.g., Prettier for code style).
+- Write meaningful commit messages.
+- Ensure that all functions and modules are properly documented.
+
+Code of Conduct
+All contributors are expected to follow the Code of Conduct to ensure a welcoming and respectful environment.
+
+Need Help?
+If you have any questions or need clarification, feel free to:
+
+- Open a discussion in the Discussions tab.
+- Contact the project maintainers directly via email.
+
+This guide will help keep contributions organized and ensure smooth collaboration. Thank you for your time and effort!
+
+How to Add It to the Repository
+1. Create a new file in the root directory of the project named CONTRIBUTING.md.
+2. Copy and paste the content above into the file.
+3. Save the file and add it to your Git repository:
+
+git add CONTRIBUTING.md
+git commit -m "Add CONTRIBUTING guidelines"
+git push origin main  # Replace `main` with the branch name if necessary
+
+4. Verify the file on GitHub.
